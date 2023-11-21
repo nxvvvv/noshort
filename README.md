@@ -9,6 +9,9 @@ Get rid of that pesky and unsightly "shortcut arrow" on your Windows desktop eas
 ```
 irm -Uri 'https://raw.githubusercontent.com/nxvvvv/noshort/main/noshort.ps1' -UseBasicParsing | iex
 ```
+> [!IMPORTANT]
+> If this doesn't work, just download the `noshort.ps1` file, right-click and click `Run with PowerShell`
+
 3. Press `1` to **Remove** the Shortcut arrow
 
 > [!NOTE]
@@ -29,5 +32,9 @@ Hey, it's totally up to you! I've tried the popular ones, and those were just me
 
 But here's what you might end up with :neutral_face::
 <img src="https://github.com/nxvvvv/noshort/assets/34748927/b9092d7e-07b1-444b-8154-72326cde0207" width="55">
+
+#### Using Softwares:
+
+Bruh :expressionless:.
 
 So, my way? It's just simpler and works better.
