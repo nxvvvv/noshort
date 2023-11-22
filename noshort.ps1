@@ -22,7 +22,7 @@ if ($choice -eq "1") {
 
     # Define the icon file path and URLs
     $iconFilePath = "C:\Windows\blank.ico"
-    $iconUrl = "https://raw.githubusercontent.com/nxvvvv/noshort/main/blank.ico"
+    $iconUrl = "https://raw.githubusercontent.com/nxvvvv/noshort/files/blank.ico"
 
     # Download the icon file with error handling
     try {
