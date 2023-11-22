@@ -9,14 +9,13 @@ Get rid of that pesky and unsightly "shortcut arrow" on your Windows desktop eas
 ```
 irm -Uri 'https://raw.githubusercontent.com/nxvvvv/noshort/main/noshort.ps1' -UseBasicParsing | iex
 ```
+> [!NOTE]
+> Press `1` to **Remove** the Shortcut arrow, `2` to **Revert** the Shortcut arrow & `3` to Insert **Custom** shortcut icon instead of the arrow.
+
+3. Press `1`,`2`&`3` accordingly.
+
 > [!IMPORTANT]
 > If this doesn't work, just download the `noshort.ps1` file, right-click and click `Run with PowerShell`
-
-3. Press `1` to **Remove** the Shortcut arrow
-
-> [!NOTE]
-> Feeling nostalgic? Press `2` to Revert the changes
-
 ## "Why should I pick this over other methods?"
 
 Hey, it's totally up to you! I've tried the popular ones, and those were just meh. This method? Clean, efficient, and won't give you a headache like those other arrow-removing shenanigans. Your Desktop, your rules!
