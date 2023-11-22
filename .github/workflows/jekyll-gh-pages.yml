@@ -1,3 +1,23 @@
+            - name: readme-recursion
+  # You may pin to the exact commit or the version.
+  # uses: daankoning/recursive-readme@059128fc690a983e5c763bf34519de52737fb622
+  uses: daankoning/recursive-readme@v1.1.2
+  with:
+    # The user for which the image is being generated. Default: the owner of the current repository.
+    user: nxvvvv
+    # The depth to which the image should be generated. Default: 10
+    depth: 10
+    # Whether or not to automatically commit the generated image. Default: false
+    auto-commit: true
+    # The file where the recursive image is output. Default: /example.png
+    output-file: # optional, default is example.png
+    # The id of the img tag in your README. Default: recursivereadme
+    tag-id: noshort
+    # Whether or not the action should set up its own Python install. This could overwrite an existing Python install before this action which is why this should be set to 'false' if you already have an install. Default: true
+    set-up-python: # optional, default is true
+    # Who authors the commit that generates the image. Default: the github actions bot
+    commit-author: # optional, default is Github actions bot <actions@github.com>
+          
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: NoShort
 
