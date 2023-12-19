@@ -1,4 +1,4 @@
-# NoShort
+# [WIP]NoShort
 
 Get rid of that pesky and unsightly "shortcut arrow" on your Windows desktop easily!
 
